@@ -1,7 +1,6 @@
 package main
 
 import (
-	_ "net/http/pprof"
 	"time"
 
 	"fyne.io/fyne/v2"
